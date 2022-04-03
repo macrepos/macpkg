@@ -4,3 +4,4 @@ Webex-M1.pkg filter=lfs diff=lfs merge=lfs -text
 Webex-Intel.pkg filter=lfs diff=lfs merge=lfs -text
 *.pkf filter=lfs diff=lfs merge=lfs -text
 *.pkg filter=lfs diff=lfs merge=lfs -text
+AcroRdrDC_2200120085_MUI.pkg filter=lfs diff=lfs merge=lfs -text
